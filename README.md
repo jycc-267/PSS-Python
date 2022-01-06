@@ -2,4 +2,5 @@
 
 Python文字探勘實作
 - [使用共現詞尋找PTT八卦版意見領袖](Side Project/AS07p Collocation.html)
+- https://github.com/jycc-267/PSS-Python/blob/main/Side%20Project/AS07p%20Collocation.html
 - [意見領袖網絡圖](Side Project/text.html) 
