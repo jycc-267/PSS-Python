@@ -1,0 +1,6 @@
+
+.DS_Store
+# Jupyter Notebook
+.ipynb_checkpoints
+private/
+AS/private/
