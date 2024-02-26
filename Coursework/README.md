@@ -1,7 +1,7 @@
 # Coursework Description
 Text Analytics Coursework with Python, which mainly focused on Chinese and English natural language processing modeling, from bag-of-words, sentiment analysis, topic model, word embedding to basic supervised and unsupervised machine learning algorithms. 
 
-### NLP Algorithms
+### Contents
 - [搭配詞(Methods of Finding Collocations)](TM02_collocation.ipynb)
 - [詞性標註(Part-of-speech tagging)](TM03_POS_Tagging.ipynb)
 - [詞嵌入中(Word Embedding_Chinese)](TM05_embedding_chinese.ipynb)
